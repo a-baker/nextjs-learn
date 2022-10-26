@@ -1,0 +1,1 @@
+Following the [next.js learning pathway](https://nextjs.org/learn)
